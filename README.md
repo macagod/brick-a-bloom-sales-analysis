@@ -4,7 +4,7 @@
 2. [Problem Statement](#problem-statement)
 3. [Objectives](#objectives)
 4. [Key Findings](#key-findings)
-    - [Sales Trends by Month](#insights)
+    - [Sales Trends & Growth Rates](#sales-trends-&-growth-rates)
     - [Customer Preference Insight: Wrapper Colors](#customer-preference-insight-wrapper-colors)
     - [Customer Preference Insight: Ribbon Colors](#customer-preference-insight-ribbon-colors)
     - [Revenue Insights](#revenue-insights)
@@ -42,23 +42,31 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 
 ## Key Findings
 
-### Insights
+### Sales Trends & Growth Rates
+1. **1-Piece Bouquets: Gradual Decline**
+    - **Total Revenue**: PHP 20,120 (37.2% of total revenue across all bouquet options).
+    - Sales dropped significantly in November (**-69.18%** from October) and continued to decline slightly in December (**-11.93%**).
+    - The trend in January 2025 shows a **-40.79%** decrease from December, reflecting reduced demand for smaller bouquets post-holiday.
 
-1. **Sales Trends by Month**:
-   - **October** led in sales for 1-piece bouquets (PHP 7,300), indicating strong initial interest from budget-conscious customers at launch.
-   - **December** showed the highest revenue overall (PHP 21,320), with the **3-piece bouquet** contributing **PHP 8,540**—a 57.5% increase compared to November.
-   - A decline in 1-piece bouquet sales from October to November (**-27.7%**) was offset by significant growth in 2-piece and 3-piece sales during the holiday season.
+2. **2-Piece Bouquets: Consistent Growth**
+    - **Total Revenue**: PHP 13,350 (24.7% of total revenue).
+    - Sales surged in November (**+172.00%** from October) and maintained steady growth through December (**+16.56%**).
+    - January sales dropped slightly (**-11.50%**), which aligns with post-holiday expectations.
 
-2. **Product Popularity**:
-   - **3-piece bouquets** drove the highest revenue in December, demonstrating their appeal during the holiday gifting period.
-   - The **1-piece bouquet**, while a consistent seller, saw fluctuating demand, potentially due to its lower perceived value as a gift option.
+3. **3-Piece Bouquets: Driving Seasonal Success**
+    - **Total Revenue**: PHP 20,600 (38.1% of total revenue).
+    - November saw a slight decline (**-11.43%** from October), but sales recovered significantly in December (**+42.33%**) as customers likely purchased larger bouquets for the holidays.
+    - January maintained strong demand, showing **+15.56%** growth compared to December, indicating consistent post-holiday interest in premium products.
 
-3. **Seasonal Growth**:
-   - Total revenue increased steadily across the three months, with **December sales growing 38.9%** from October, showcasing the importance of seasonal demand and strategic promotions.
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/fd011007-6f8e-4a97-8a02-d591c470d291" alt="wrapper">
-    <img src="https://github.com/user-attachments/assets/1983c78c-dc1e-477c-8d93-5725ab4ca2ab" alt="wrapper">
+     <img src="https://github.com/user-attachments/assets/1983c78c-dc1e-477c-8d93-5725ab4ca2ab" alt="trend">
+    <img src="https://github.com/user-attachments/assets/e4532f81-bb84-4460-9be7-fa191e89783f" alt="growth_bouquet_option">
 </p>
+
+
+
+
+
 
 ---
 
@@ -124,24 +132,24 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 ## Actionable Recommendations
 
 1. **Focus on Premium Products**
-- Promote **3-piece bouquets** as premium holiday gift options in future campaigns.
-- Create bundled packages for 3-piece bouquets, such as including greeting cards or decorative vases, to increase perceived value.
+    - Promote **3-piece bouquets** as premium holiday gift options in future campaigns.
+    - Create bundled packages for 3-piece bouquets, such as including greeting cards or decorative vases, to increase perceived value.
 
 2. **Engage Budget-Conscious Customers**
-- Reignite interest in **1-piece bouquets** through “affordable gift” promotions.
-- Highlight customization options to make smaller bouquets more personal and appealing.
+    - Reignite interest in **1-piece bouquets** through “affordable gift” promotions.
+    - Highlight customization options to make smaller bouquets more personal and appealing.
 
 3. **Prepare for Seasonal Demand**
-- Prioritize inventory for **3-piece and 2-piece bouquets** during high-demand periods, especially in November and December.
-- Leverage holiday performance insights to prepare for similar trends during Valentine's Day and other gifting seasons.
+    - Prioritize inventory for **3-piece and 2-piece bouquets** during high-demand periods, especially in November and December.
+    - Leverage holiday performance insights to prepare for similar trends during Valentine's Day and other gifting seasons.
 
 4. **Optimize Underperforming Products**
-- Investigate the decline in **1-piece bouquet sales** in November to refine marketing or pricing strategies.
-- Reassess and redesign low-performing wrapper and ribbon colors to improve their appeal or phase them out.
+    - Investigate the decline in **1-piece bouquet sales** in November to refine marketing or pricing strategies.
+    - Reassess and redesign low-performing wrapper and ribbon colors to improve their appeal or phase them out.
 
 5. **Personalize Marketing Efforts**
-- Use insights on customer preferences to craft targeted campaigns for high-demand products and combinations.
-- Promote top ribbon and wrapper colors like **White**, **Black**, and **Sand** in campaigns for premium and versatile designs.
+    - Use insights on customer preferences to craft targeted campaigns for high-demand products and combinations.
+    - Promote top ribbon and wrapper colors like **White**, **Black**, and **Sand** in campaigns for premium and versatile designs.
 
 
 ---
