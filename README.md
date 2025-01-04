@@ -8,7 +8,7 @@ Brick-A-Bloom is a small business specializing in handcrafted LEGO flower bouque
 ## Problem Statement
 
 The business faced the following challenges:
-- Strong seasonal fluctuations, with **60% of annual revenue concentrated in November and December**.
+- Strong seasonal fluctuations, with **60% of total revenue since October launch concentrated in November and December**.
 - Inefficient inventory management caused by inconsistent demand for customization options like wrapper and ribbon colors.
 - Limited insights into product performance and customer preferences, hindering the ability to develop targeted marketing strategies.
 
@@ -26,7 +26,8 @@ The business faced the following challenges:
 ## Key Findings
 
 ### Seasonal Trends
-- **December 2024** contributed **35% of total revenue**, while January saw a **40% decline in sales**.
+- **December 2024** contributed **35% of total revenue**
+  
 - November and December combined accounted for **60% of total annual revenue**, underscoring the importance of seasonal promotions.
 
 ### Product Performance
