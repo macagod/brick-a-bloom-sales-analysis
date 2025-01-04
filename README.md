@@ -38,6 +38,7 @@ The business faced the following challenges:
 
 ### Customer Preferences
 - **Wrapper Colors**: Milktea (25%), Sand (20%), and Red (15%) were the most popular, while Purple (5%) and Blue (3%) lagged.
+
   ![Wrapper Color Preference](https://github.com/user-attachments/assets/73156f40-883c-4628-8379-bf64e4ae05db)
 
 - **Ribbon Colors**: Champagne (30%), White (25%), and Red (20%) dominated customer preferences.
