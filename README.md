@@ -29,6 +29,8 @@ The business faced the following challenges:
 - **December 2024** contributed **35% of total revenue**
   
 - November and December combined accounted for **60% of total annual revenue**, underscoring the importance of seasonal promotions.
+ ![Total Sales Over Time](https://github.com/user-attachments/assets/934e36a2-0cdd-4904-a0f8-05c3f6355f56)
+
 
 ### Product Performance
 - **1-piece bouquets** represented **50% of orders** but contributed less to revenue compared to larger bouquets.
@@ -36,7 +38,12 @@ The business faced the following challenges:
 
 ### Customer Preferences
 - **Wrapper Colors**: Milktea (25%), Sand (20%), and Red (15%) were the most popular, while Purple (5%) and Blue (3%) lagged.
+  ![Wrapper Color Preference](https://github.com/user-attachments/assets/73156f40-883c-4628-8379-bf64e4ae05db)
+
 - **Ribbon Colors**: Champagne (30%), White (25%), and Red (20%) dominated customer preferences.
+  ![Ribbon Color Preference](https://github.com/user-attachments/assets/4cad8d6b-d444-4778-8b31-87199422c38a)
+
+  
 
 ### Revenue Insights
 - The **average order value (AOV)** for 3-piece bouquets was PHP **1,500**, compared to PHP **520** for 1-piece bouquets.
