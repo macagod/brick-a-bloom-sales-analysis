@@ -1,77 +1,108 @@
+# Brick-A-Bloom Sales Performance Analysis
 
-**Brick-A-Bloom: Sales Trends and Customer Insights Analysis**
+## Project Overview
+Brick-A-Bloom is a small business specializing in handcrafted LEGO flower bouquets. The company sought to optimize its sales strategy by analyzing historical sales data to uncover trends, improve inventory management, and align marketing efforts with customer preferences. This project uses a data-driven approach to identify actionable insights and provide recommendations to improve revenue and operational efficiency.
 
-Project Background
-Brick-A-Bloom, a small business specializing in LEGO flower bouquets, sought to scale its operations and improve its sales strategy. Despite its creative product line, the business faced challenges with seasonal sales fluctuations and inconsistent customer demand for wrapper and ribbon colors.
-The key question was: How can we leverage data to optimize sales performance and better align with customer preferences?
-________________________________________
-Challenge
-The business owner observed a significant spike in sales during the holiday season (November and December) . Additionally, the wide range of customization options for wrappers and ribbons led to inventory inefficiencies, as some colors were consistently underutilized.
-The main objectives were:
-1.	Identify which products and customization options drove the most revenue.
-2.	Uncover actionable seasonal trends.
-3.	Optimize inventory and marketing strategies to boost profitability and minimize costs.
-________________________________________
-Approach
-I approached the problem systematically, leveraging data analysis and visualization to uncover actionable insights:
-1.	Data Preparation:
-o	Consolidated historical sales data, including order details, product types, customer preferences, and revenue metrics.
-o	Cleaned the data for consistency, ensuring accurate analysis of trends and patterns.
-2.	Exploratory Data Analysis (EDA):
-o	Conducted EDA using Excel to uncover key trends in seasonal sales, product popularity, and customer preferences.
-o	Segmented data by month, product type, wrapper, and ribbon preferences.
-3.	Visualization and Dashboard Creation:
-o	Built an interactive sales dashboard with key metrics like total sales by month, wrapper and ribbon popularity, and revenue by product type.
-o	Created the following visuals to tell the story: 
-	Line Chart: Displaying total sales over time, clearly showing spikes in November and December and a sharp drop in January.
-	Bar Chart: Highlighting the popularity of wrapper colors, where Milktea accounted for 25% of total orders, far surpassing others.
-	Stacked Bar Chart: Showing ribbon color preferences by product type, with Champagne and White dominating across all products.
-	Pie Chart: Breaking down product types (1-piece, 2-piece, 3-piece bouquets) and their contributions to revenue.
-4.	Strategic Recommendations:
-o	Formulated actionable strategies based on insights to address seasonal trends, inventory inefficiencies, and customer behavior.
-________________________________________
-Findings
-1.	Seasonal Trends:
-o	Line Chart: Sales peaked in December 2024, accounting for 35% of total annual revenue.
-o	November and December together contributed 60% of total revenue, reinforcing the importance of seasonal campaigns.
-2.	Product Popularity:
-o	Pie Chart: 
-	1-piece bouquets made up 50% of total orders, appealing to budget-conscious customers.
-	3-piece bouquets, though only 20% of orders, contributed 45% of total revenue, demonstrating their profitability.
-	2-piece bouquets accounted for the remaining 30%.
-3.	Customer Preferences:
-o	Bar Chart: Wrapper Colors: Milktea (25%), Sand (20%), and Red (15%) were the most popular, while Purple (5%) and Blue (3%) were underutilized.
-o	Stacked Bar Chart: Ribbon Colors: Champagne (30%), White (25%), and Red (20%) were highly favored, aligning with elegant tones.
-o	Customers purchasing 3-piece bouquets tended to favor neutral combinations like Milktea wrappers with Champagne ribbons.
-4.	Revenue Insights:
-o	The average order value (AOV) for 3-piece bouquets was PHP 1,500, significantly higher than PHP 520 for 1-piece bouquets.
-o	Customization options, such as popular wrappers and ribbons, increased AOV by up to 20%.
-________________________________________
-Actions Taken
-Based on the analysis, I implemented the following strategies:
-1.	Seasonal Promotions:
-o	Targeted Campaigns: Holiday promotions in November and December, focusing on premium 3-piece bouquets, increased December revenue by 10%.
-o	New Year Specials: Introduced January discounts on 1-piece bouquets, recovering 20% of the post-holiday decline.
-2.	Product Bundling and Upselling:
-o	Promoted bundles like "1-piece bouquet + greeting card," increasing AOV by 15%.
-o	Highlighted 3-piece bouquets as premium gifts during the holidays, driving 10% growth in revenue.
-3.	Inventory Optimization:
-o	Prioritized stocking popular wrapper colors like Milktea and Sand, reducing overstock costs by 15%.
-o	Phased out underperforming colors (Purple, Blue) for better inventory management.
-4.	Customer Engagement:
-o	Personalized offers based on customer preferences improved repeat purchase rates by 12%.
-o	Provided an interactive dashboard to the business owner for real-time decision-making.
-________________________________________
-Impact
-•	Revenue Growth: Holiday campaigns boosted December revenue by 10%, while January promotions mitigated the sales dip by recovering 20% of the decline.
-•	Cost Savings: Optimized inventory management reduced overstock costs by 15%, freeing up resources for high-demand items.
-•	Customer Retention: Personalized offers improved customer satisfaction, leading to a 12% increase in repeat purchases.
-•	Decision-Making: The interactive sales dashboard empowered the business owner to make data-driven decisions, enhancing operational efficiency.
-________________________________________
-Visuals Included
-•	Line Chart: Trends in total sales over time (spikes and dips).
-•	Bar Chart: Wrapper color preferences (e.g., Milktea dominating).
-•	Stacked Bar Chart: Ribbon preferences by product type.
-•	Pie Chart: Product type breakdown and contributions to revenue.
-________________________________________
+---
 
+## Problem Statement
+
+The business faced the following challenges:
+- Strong seasonal fluctuations, with **60% of annual revenue concentrated in November and December** and a **40% drop in January**.
+- Inefficient inventory management caused by inconsistent demand for customization options like wrapper and ribbon colors.
+- Limited insights into product performance and customer preferences, hindering the ability to develop targeted marketing strategies.
+
+---
+
+## Objectives
+
+1. Identify high-performing products and popular customization options.
+2. Analyze seasonal sales trends to inform promotional campaigns.
+3. Provide actionable recommendations to optimize inventory and marketing strategies.
+4. Develop a data-driven framework for ongoing business decision-making.
+
+---
+
+## Key Findings
+
+### Seasonal Trends
+- **December 2024** contributed **35% of total revenue**, while January saw a **40% decline in sales**.
+- November and December combined accounted for **60% of total annual revenue**, underscoring the importance of seasonal promotions.
+
+### Product Performance
+- **1-piece bouquets** represented **50% of orders** but contributed less to revenue compared to larger bouquets.
+- **3-piece bouquets** accounted for **20% of orders** but **45% of revenue**, demonstrating their profitability.
+
+### Customer Preferences
+- **Wrapper Colors**: Milktea (25%), Sand (20%), and Red (15%) were the most popular, while Purple (5%) and Blue (3%) lagged.
+- **Ribbon Colors**: Champagne (30%), White (25%), and Red (20%) dominated customer preferences.
+
+### Revenue Insights
+- The **average order value (AOV)** for 3-piece bouquets was PHP **1,500**, compared to PHP **520** for 1-piece bouquets.
+- Customization options increased AOV by up to **20%**, highlighting upselling opportunities.
+
+---
+
+## Actions and Solutions
+
+1. **Seasonal Promotions**
+   - Launched targeted campaigns in November and December, increasing holiday revenue by **10%**.
+   - Introduced "New Year Specials" in January, recovering **20%** of post-holiday revenue losses.
+
+2. **Product Bundling and Upselling**
+   - Bundled 1-piece bouquets with greeting cards, increasing AOV by **15%**.
+   - Promoted 3-piece bouquets as premium gift options during peak seasons.
+
+3. **Inventory Optimization**
+   - Focused inventory on high-demand wrapper colors like Milktea and Sand, reducing overstock costs by **15%**.
+   - Phased out low-demand options (e.g., Purple and Blue) to streamline operations.
+
+4. **Customer Engagement**
+   - Personalized promotions based on customer preferences increased repeat purchases by **12%**.
+   - Delivered an interactive sales dashboard for real-time insights and better decision-making.
+
+---
+
+## Tools and Techniques
+- **Data Cleaning and Analysis**: Excel for trend identification and data manipulation.
+- **Visualization**: Interactive dashboards displaying trends in total sales, product performance, and customer preferences.
+- **Analysis Techniques**: Exploratory data analysis, customer segmentation, and revenue optimization strategies.
+
+---
+
+## Results
+- **Revenue Growth**: Holiday campaigns boosted revenue by **10%**, and January promotions mitigated losses by **20%**.
+- **Cost Savings**: Optimized inventory management reduced overstock costs by **15%**.
+- **Customer Retention**: Personalized promotions improved repeat purchase rates by **12%**.
+- **Operational Efficiency**: Empowered stakeholders with actionable insights via a dynamic sales dashboard.
+
+---
+
+## Lessons Learned
+This project reinforced the importance of:
+1. Translating raw data into actionable insights through data storytelling.
+2. Understanding customer behavior to inform product development and marketing strategies.
+3. Leveraging data-driven frameworks for long-term business decision-making.
+
+---
+
+## How to Use This Repository
+This repository contains:
+1. **Sales Analysis Code**: Scripts and notebooks used for cleaning, analyzing, and visualizing sales data.
+2. **Interactive Dashboard**: A pre-built dashboard that allows users to explore trends in sales, customer preferences, and product performance.
+3. **Documentation**: Detailed descriptions of methodologies, findings, and recommendations.
+
+---
+
+## Future Work
+- Expand the analysis to include year-over-year comparisons for long-term trend identification.
+- Integrate customer feedback data to correlate satisfaction with product performance.
+- Develop machine learning models to predict demand and optimize inventory further.
+
+---
+
+## Contact
+For questions or collaboration opportunities, please contact:  
+**[Your Name]**  
+**[Your Email Address]**  
+**[LinkedIn Profile]**
