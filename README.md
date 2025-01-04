@@ -98,4 +98,4 @@ This repository contains:
 For questions or collaboration opportunities, please contact:  
 **Raphael Lawrence Macadaeg**  
 **rlsmacadaeg0@gmail.com**  
-**LinkedIn**
+[**LinkedIn**](https://www.linkedin.com/in/raphael-lawrence-macadaeg-977306248/)!
