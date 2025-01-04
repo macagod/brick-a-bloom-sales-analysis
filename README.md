@@ -1,5 +1,6 @@
 
-Brick-A-Bloom: Sales Trends and Customer Insights Analysis
+**Brick-A-Bloom: Sales Trends and Customer Insights Analysis**
+
 Project Background
 Brick-A-Bloom, a small business specializing in LEGO flower bouquets, sought to scale its operations and improve its sales strategy. Despite its creative product line, the business faced challenges with seasonal sales fluctuations and inconsistent customer demand for wrapper and ribbon colors.
 The key question was: How can we leverage data to optimize sales performance and better align with customer preferences?
