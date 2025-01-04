@@ -1,74 +1,148 @@
+# Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Objectives](#objectives)
+4. [Key Findings](#key-findings)
+    - [Sales Trends by Month](#insights)
+    - [Customer Preference Insight: Wrapper Colors](#customer-preference-insight-wrapper-colors)
+    - [Customer Preference Insight: Ribbon Colors](#customer-preference-insight-ribbon-colors)
+    - [Revenue Insights](#revenue-insights)
+5. [Actionable Recommendations](#actionable-recommendations)
+6. [Tools and Techniques](#tools-and-techniques)
+7. [Lessons Learned](#lessons-learned)
+8. [Contact](#contact)
+
+---
 # Brick-A-Bloom Sales Performance Analysis
 
 ## Project Overview
-Brick-A-Bloom is a small business specializing in handcrafted LEGO flower bouquets. The company sought to optimize its sales strategy by analyzing historical sales data to uncover trends, improve inventory management, and align marketing efforts with customer preferences. This project uses a data-driven approach to identify actionable insights and provide recommendations to improve revenue and operational efficiency.
+Brick-A-Bloom, a startup business specializing in handcrafted LEGO flower bouquets, recently launched operations in October. With its innovative product line, the business aimed to gain a foothold in the market during the critical holiday season. This project focuses on analyzing sales data from October to December to uncover trends, optimize inventory management, and align marketing strategies with customer preferences.
+
 
 ---
 
 ## Problem Statement
 
-The business faced the following challenges:
-- Strong seasonal fluctuations, with **60% of total revenue since October launch concentrated in November and December**.
-- Inefficient inventory management caused by inconsistent demand for customization options like wrapper and ribbon colors.
-- Limited insights into product performance and customer preferences, hindering the ability to develop targeted marketing strategies.
+As a newly launched business, Brick-A-Bloom faced the following challenges:
+- Establishing a strong market presence during the initial months of operation.
+- Managing inventory effectively amidst fluctuating customer demand during the holiday season.
+- Limited data availability for January, necessitating a focus on October to December trends to derive actionable insights.
 
 ---
 
 ## Objectives
 
-1. Identify high-performing products and popular customization options.
-2. Analyze seasonal sales trends to inform promotional campaigns.
-3. Provide actionable recommendations to optimize inventory and marketing strategies.
-4. Develop a data-driven framework for ongoing business decision-making.
+1. Identify high-performing products and popular customization options from the first three months of sales.
+2. Analyze seasonal sales trends to inform promotional campaigns for future holiday periods.
+3. Provide actionable recommendations to optimize inventory and marketing strategies based on early customer behavior.
+4. Develop a foundation for data-driven decision-making to support long-term business growth.
 
 ---
 
 ## Key Findings
 
-### Seasonal Trends
-- **December 2024** contributed **35% of total revenue**
-  
-- November and December combined accounted for **60% of total annual revenue**, underscoring the importance of seasonal promotions.
- ![Total Sales Over Time](https://github.com/user-attachments/assets/934e36a2-0cdd-4904-a0f8-05c3f6355f56)
+### Insights
 
+1. **Sales Trends by Month**:
+   - **October** led in sales for 1-piece bouquets (PHP 7,300), indicating strong initial interest from budget-conscious customers at launch.
+   - **December** showed the highest revenue overall (PHP 21,320), with the **3-piece bouquet** contributing **PHP 8,540**—a 57.5% increase compared to November.
+   - A decline in 1-piece bouquet sales from October to November (**-27.7%**) was offset by significant growth in 2-piece and 3-piece sales during the holiday season.
 
-### Product Performance
-- **1-piece bouquets** represented **50% of orders** but contributed less to revenue compared to larger bouquets.
-- **3-piece bouquets** accounted for **20% of orders** but **45% of revenue**, demonstrating their profitability.
+2. **Product Popularity**:
+   - **3-piece bouquets** drove the highest revenue in December, demonstrating their appeal during the holiday gifting period.
+   - The **1-piece bouquet**, while a consistent seller, saw fluctuating demand, potentially due to its lower perceived value as a gift option.
 
-### Customer Preferences
-- **Wrapper Colors**: Milktea (25%), Sand (20%), and Red (15%) were the most popular, while Purple (5%) and Blue (3%) lagged.
-
-  ![Wrapper Color Preference](https://github.com/user-attachments/assets/73156f40-883c-4628-8379-bf64e4ae05db)
-
-- **Ribbon Colors**: Champagne (30%), White (25%), and Red (20%) dominated customer preferences.
-  ![Ribbon Color Preference](https://github.com/user-attachments/assets/4cad8d6b-d444-4778-8b31-87199422c38a)
-
-  
-
-### Revenue Insights
-- The **average order value (AOV)** for 3-piece bouquets was PHP **1,500**, compared to PHP **520** for 1-piece bouquets.
-- Customization options increased AOV by up to **20%**, highlighting upselling opportunities.
+3. **Seasonal Growth**:
+   - Total revenue increased steadily across the three months, with **December sales growing 38.9%** from October, showcasing the importance of seasonal demand and strategic promotions.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/fd011007-6f8e-4a97-8a02-d591c470d291" alt="wrapper">
+    <img src="https://github.com/user-attachments/assets/1983c78c-dc1e-477c-8d93-5725ab4ca2ab" alt="wrapper">
+</p>
 
 ---
 
-## Actions and Solutions
+# Customer Preference Insight: Wrapper Colors
 
-1. **Seasonal Promotions**
-   - Launched targeted campaigns in November and December, increasing holiday revenue by **10%**.
-   - Introduced "New Year Specials" in January, recovering **20%** of post-holiday revenue losses.
+1. **Top-Performing Wrapper Colors**:
+   - **Black** is the most popular wrapper color, making up **17.82%** of total orders, highlighting a strong preference for sleek and classic designs.
+   - **Sand** (**10.89%**) and **Bean Paste** (**9.90%**) follow, indicating demand for neutral and earthy tones.
+   - **Gouache** (**11.88%**) stands out as a creative option, appealing to customers looking for unique designs.
 
-2. **Product Bundling and Upselling**
-   - Bundled 1-piece bouquets with greeting cards, increasing AOV by **15%**.
-   - Promoted 3-piece bouquets as premium gift options during peak seasons.
+2. **Moderately Preferred Colors**:
+   - **Milktea** (**8.91%**) and **Blue** (**7.92%**) show consistent demand, catering to customers with subtle and calming preferences.
 
-3. **Inventory Optimization**
-   - Focused inventory on high-demand wrapper colors like Milktea and Sand, reducing overstock costs by **15%**.
-   - Phased out low-demand options (e.g., Purple and Blue) to streamline operations.
+3. **Underperforming Colors**:
+   - **Pink** has the lowest demand, accounting for only **1.98%** of orders.
+   - **White** (**4.95%**) and **Azure** (**5.94%**) also show limited appeal, suggesting minimal customer interest.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/132e3f96-14ec-4d97-bcad-6106522e73d1" alt="wrapper">
+</p>
 
-4. **Customer Engagement**
-   - Personalized promotions based on customer preferences increased repeat purchases by **12%**.
-   - Delivered an interactive sales dashboard for real-time insights and better decision-making.
+# Customer Preference Insight: Ribbon Colors
+
+1. **Most Popular Ribbon Colors**:
+   - **White** is the most popular ribbon color, accounting for **15.84%** of total orders. This suggests that customers prefer neutral and versatile designs.
+   - **Blue** and **Camel** follow closely, both contributing **13.86%** each, indicating a preference for earthy and calming tones.
+
+2. **Moderately Popular Ribbon Colors**:
+   - **Black** and **Brown** are moderately preferred, making up **11.88%** and **12.87%** of orders, respectively.
+   - **Champagne** holds **10.89%**, reinforcing its appeal for elegant and premium designs.
+
+3. **Least Preferred Ribbon Colors**:
+   - **Red** is the least favored, contributing only **3.96%** of total orders.  
+   - **Yellow** and **Pearl** make up **7.92%** and **8.91%**, respectively, showing limited demand for these options.
+
+---
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d9d16c8f-f07c-4938-83e9-50cfb5f20a6d" alt="ribbon">
+</p>
+
+  
+
+## Revenue Insights
+
+1. **Highest Revenue Contribution**:
+   - The **3-piece bouquet** generated the highest total revenue, with a **Sum of Total Price** of **PHP 20,600**, despite having fewer orders (32) compared to the **1-piece bouquet** (43 orders).
+   - This highlights that larger bouquets, though ordered less frequently, have a higher revenue-generating potential.
+
+2. **Average Order Value (AOV) Comparison**:
+   - The **3-piece bouquet** has the highest AOV at **PHP 643.75**, followed by the **2-piece bouquet** at **PHP 513.46**, and the **1-piece bouquet** at **PHP 467.91**.
+   - This reinforces the profitability of promoting larger bouquet options over smaller ones.
+
+3. **Mid-Tier Performance**:
+   - The **2-piece bouquet** has the lowest total revenue (**PHP 13,350**) and a moderate AOV (**PHP 513.46**), suggesting it appeals to a niche customer base that is less revenue-generating compared to other tiers.
+
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/87bb18b9-2b59-4f04-aef6-d6fb431d78a9" alt="AOV">
+</p>
+
+
+---
+
+## Actionable Recommendations
+
+ 1. Focus on Premium Products
+- Promote **3-piece bouquets** as premium holiday gift options in future campaigns.
+- Create bundled packages for 3-piece bouquets, such as including greeting cards or decorative vases, to increase perceived value.
+
+ 2. Engage Budget-Conscious Customers
+- Reignite interest in **1-piece bouquets** through “affordable gift” promotions.
+- Highlight customization options to make smaller bouquets more personal and appealing.
+
+3. Prepare for Seasonal Demand
+- Prioritize inventory for **3-piece and 2-piece bouquets** during high-demand periods, especially in November and December.
+- Leverage holiday performance insights to prepare for similar trends during Valentine's Day and other gifting seasons.
+
+4. Optimize Underperforming Products
+- Investigate the decline in **1-piece bouquet sales** in November to refine marketing or pricing strategies.
+- Reassess and redesign low-performing wrapper and ribbon colors to improve their appeal or phase them out.
+
+5. Personalize Marketing Efforts
+- Use insights on customer preferences to craft targeted campaigns for high-demand products and combinations.
+- Promote top ribbon and wrapper colors like **White**, **Black**, and **Sand** in campaigns for premium and versatile designs.
+
 
 ---
 
@@ -76,14 +150,6 @@ The business faced the following challenges:
 - **Data Cleaning and Analysis**: Excel for trend identification and data manipulation.
 - **Visualization**: Interactive dashboards displaying trends in total sales, product performance, and customer preferences.
 - **Analysis Techniques**: Exploratory data analysis, customer segmentation, and revenue optimization strategies.
-
----
-
-## Results
-- **Revenue Growth**: Holiday campaigns boosted revenue by **10%**, and January promotions mitigated losses by **20%**.
-- **Cost Savings**: Optimized inventory management reduced overstock costs by **15%**.
-- **Customer Retention**: Personalized promotions improved repeat purchase rates by **12%**.
-- **Operational Efficiency**: Empowered stakeholders with actionable insights via a dynamic sales dashboard.
 
 ---
 
