@@ -5,6 +5,7 @@
 3. [Objectives](#objectives)
 4. [Key Findings](#key-findings)
     - [Sales Trends & Growth Rates](#sales-trends--growth-rates)
+    - [Growth Rate Trend](#growth-rate-trends)
     - [Customer Preference Insight: Wrapper Colors](#customer-preference-insight-wrapper-colors)
     - [Customer Preference Insight: Ribbon Colors](#customer-preference-insight-ribbon-colors)
     - [Revenue Insights](#revenue-insights)
@@ -43,24 +44,40 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 ## Key Findings
 
 ### Sales Trends & Growth Rates
-1. **1-Piece Bouquets: Gradual Decline**
-    - **Total Revenue**: PHP 20,120 (37.2% of total revenue across all bouquet options).
-    - Sales dropped significantly in November (**-69.18%** from October) and continued to decline slightly in December (**-11.93%**).
-    - The trend in January 2025 shows a **-40.79%** decrease from December, reflecting reduced demand for smaller bouquets post-holiday.
 
-2. **2-Piece Bouquets: Consistent Growth**
-    - **Total Revenue**: PHP 13,350 (24.7% of total revenue).
-    - Sales surged in November (**+172.00%** from October) and maintained steady growth through December (**+16.56%**).
-    - January sales dropped slightly (**-11.50%**), which aligns with post-holiday expectations.
+1. **1-Piece Bouquets**
+    - **October to November**: Sales decreased by **-27.67%**, indicating reduced interest heading into the holiday season.
+    - **November to December**: Sales rebounded significantly with a **+28.41%** increase, suggesting a recovery in demand for affordable gifting options.
 
-3. **3-Piece Bouquets: Driving Seasonal Success**
-    - **Total Revenue**: PHP 20,600 (38.1% of total revenue).
-    - November saw a slight decline (**-11.43%** from October), but sales recovered significantly in December (**+42.33%**) as customers likely purchased larger bouquets for the holidays.
-    - January maintained strong demand, showing **+15.56%** growth compared to December, indicating consistent post-holiday interest in premium products.
+2. **2-Piece Bouquets**
+    - **October to November**: Sales surged by **+106.67%**, making this the fastest-growing category during the holiday lead-up.
+    - **November to December**: Growth continued with a modest **+29.03%**, indicating sustained appeal among mid-range gift buyers.
 
-<p align="center">
-     <img src="https://github.com/user-attachments/assets/1983c78c-dc1e-477c-8d93-5725ab4ca2ab" alt="trend">
-    <img src="https://github.com/user-attachments/assets/e4532f81-bb84-4460-9be7-fa191e89783f" alt="growth_bouquet_option">
+3. **3-Piece Bouquets**
+    - **October to November**: Sales experienced a minor dip of **-11.44%**, likely due to customers waiting for the peak holiday season to purchase premium options.
+    - **November to December**: Sales skyrocketed by **+57.56%**, confirming their popularity as a premium gift choice for the holidays.
+
+### Overall Growth
+- Total revenue across all bouquet options grew by **+38.89%** from November to December, showcasing the impact of the holiday season on customer demand.
+<p align="center" float="left">
+  <img src="https://github.com/user-attachments/assets/e4532f81-bb84-4460-9be7-fa191e89783f" alt="growth_bouquet_option">
+</p>
+
+
+## Growth Rate Trends
+
+1. **Seasonal Dynamics**:
+   - **2-piece bouquets** experienced the highest growth early in the holiday season (November), capturing customers looking for affordable yet thoughtful gifts.
+   - **3-piece bouquets** dominated in December as customers shifted toward premium gifting.
+
+2. **Recovery for 1-Piece Bouquets**:
+   - After a significant decline in November, the rebound in December suggests renewed interest in smaller, more affordable options during the holiday season.
+
+
+
+<p align="center" float="left">
+    <img width="500px" src="https://github.com/user-attachments/assets/1983c78c-dc1e-477c-8d93-5725ab4ca2ab" alt="trend">
+   
 </p>
 
 
