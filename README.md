@@ -123,23 +123,23 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 
 ## Actionable Recommendations
 
- 1. Focus on Premium Products
+1. **Focus on Premium Products**
 - Promote **3-piece bouquets** as premium holiday gift options in future campaigns.
 - Create bundled packages for 3-piece bouquets, such as including greeting cards or decorative vases, to increase perceived value.
 
- 2. Engage Budget-Conscious Customers
+2. **Engage Budget-Conscious Customers**
 - Reignite interest in **1-piece bouquets** through “affordable gift” promotions.
 - Highlight customization options to make smaller bouquets more personal and appealing.
 
-3. Prepare for Seasonal Demand
+3. **Prepare for Seasonal Demand**
 - Prioritize inventory for **3-piece and 2-piece bouquets** during high-demand periods, especially in November and December.
 - Leverage holiday performance insights to prepare for similar trends during Valentine's Day and other gifting seasons.
 
-4. Optimize Underperforming Products
+4. **Optimize Underperforming Products**
 - Investigate the decline in **1-piece bouquet sales** in November to refine marketing or pricing strategies.
 - Reassess and redesign low-performing wrapper and ribbon colors to improve their appeal or phase them out.
 
-5. Personalize Marketing Efforts
+5. **Personalize Marketing Efforts**
 - Use insights on customer preferences to craft targeted campaigns for high-demand products and combinations.
 - Promote top ribbon and wrapper colors like **White**, **Black**, and **Sand** in campaigns for premium and versatile designs.
 
@@ -155,9 +155,9 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 
 ## Lessons Learned
 This project reinforced the importance of:
-1. Translating raw data into actionable insights through data storytelling.
-2. Understanding customer behavior to inform product development and marketing strategies.
-3. Leveraging data-driven frameworks for long-term business decision-making.
+1. Translating raw data into actionable insights through **data storytelling**.
+2. Understanding **customer behavior** to inform product development and marketing strategies.
+3. Leveraging data-driven frameworks for long-term **business decision-making**.
 
 ---
 
