@@ -87,13 +87,6 @@ This project reinforced the importance of:
 
 ---
 
-## How to Use This Repository
-This repository contains:
-1. **Sales Analysis Code**: Scripts and notebooks used for cleaning, analyzing, and visualizing sales data.
-2. **Interactive Dashboard**: A pre-built dashboard that allows users to explore trends in sales, customer preferences, and product performance.
-3. **Documentation**: Detailed descriptions of methodologies, findings, and recommendations.
-
----
 
 ## Contact
 For questions or collaboration opportunities, please contact:  
