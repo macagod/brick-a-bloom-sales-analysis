@@ -60,8 +60,9 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 ### Overall Growth
 - Total revenue across all bouquet options grew by **+38.89%** from November to December, showcasing the impact of the holiday season on customer demand.
 <p align="center" float="left">
-  <img src="https://github.com/user-attachments/assets/e4532f81-bb84-4460-9be7-fa191e89783f" alt="growth_bouquet_option">
+  <img src="https://github.com/user-attachments/assets/0d2b5e6f-3310-4017-b7c6-3e91b8f895d6" alt="growth_bouquet_option">
 </p>
+
 
 
 ## Growth Rate Trends
@@ -87,7 +88,7 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
 
 ---
 
-# Customer Preference Insight: Wrapper Colors
+## Customer Preference Insight: Wrapper Colors
 
 1. **Top-Performing Wrapper Colors**:
    - **Black** is the most popular wrapper color, making up **17.82%** of total orders, highlighting a strong preference for sleek and classic designs.
@@ -104,7 +105,7 @@ As a newly launched business, Brick-A-Bloom faced the following challenges:
     <img src="https://github.com/user-attachments/assets/132e3f96-14ec-4d97-bcad-6106522e73d1" alt="wrapper">
 </p>
 
-# Customer Preference Insight: Ribbon Colors
+## Customer Preference Insight: Ribbon Colors
 
 1. **Most Popular Ribbon Colors**:
    - **White** is the most popular ribbon color, accounting for **15.84%** of total orders. This suggests that customers prefer neutral and versatile designs.
