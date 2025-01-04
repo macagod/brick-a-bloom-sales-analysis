@@ -4,7 +4,7 @@
 2. [Problem Statement](#problem-statement)
 3. [Objectives](#objectives)
 4. [Key Findings](#key-findings)
-    - [Sales Trends & Growth Rates](#sales-trends-&-growth-rates)
+    - [Sales Trends & Growth Rates](#sales-trends--growth-rates)
     - [Customer Preference Insight: Wrapper Colors](#customer-preference-insight-wrapper-colors)
     - [Customer Preference Insight: Ribbon Colors](#customer-preference-insight-ribbon-colors)
     - [Revenue Insights](#revenue-insights)
