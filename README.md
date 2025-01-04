@@ -8,7 +8,7 @@ Brick-A-Bloom is a small business specializing in handcrafted LEGO flower bouque
 ## Problem Statement
 
 The business faced the following challenges:
-- Strong seasonal fluctuations, with **60% of annual revenue concentrated in November and December** and a **40% drop in January**.
+- Strong seasonal fluctuations, with **60% of annual revenue concentrated in November and December**.
 - Inefficient inventory management caused by inconsistent demand for customization options like wrapper and ribbon colors.
 - Limited insights into product performance and customer preferences, hindering the ability to develop targeted marketing strategies.
 
@@ -94,15 +94,8 @@ This repository contains:
 
 ---
 
-## Future Work
-- Expand the analysis to include year-over-year comparisons for long-term trend identification.
-- Integrate customer feedback data to correlate satisfaction with product performance.
-- Develop machine learning models to predict demand and optimize inventory further.
-
----
-
 ## Contact
 For questions or collaboration opportunities, please contact:  
-**[Your Name]**  
-**[Your Email Address]**  
-**[LinkedIn Profile]**
+**Raphael Lawrence Macadaeg**  
+**rlsmacadaeg0@gmail.com**  
+**LinkedIn**
